@@ -2,5 +2,9 @@
   {
     "package": "gwavr",
     "oncran": true
+  },
+  {
+    "package": "whitewater",
+    "oncran": true
   }
 ]
